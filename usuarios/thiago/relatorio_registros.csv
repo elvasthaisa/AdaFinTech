@@ -1,0 +1,5 @@
+id,valor,tipo_registro,descricao_tipo,data
+1,2000.0,1,Receita,26/01/2024
+2,1000.529641209313,3,Investimento,27/01/2024
+3,-560.0,2,Despesa,28/01/2024
+4,-150.0,2,Despesa,29/01/2024
